@@ -1,2 +1,2 @@
 # Tuition Management System
-A basic project to manage student data.
+A basic project to manage student data.# tuition-management-system
